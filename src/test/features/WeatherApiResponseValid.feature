@@ -12,7 +12,7 @@ Scenario Outline: To ensure expected attributes and values are listed for the se
 #		|current.temperature	| 30			|
 		|current.weather_code	| 143 			|
 		|request.type			| City			|
-		|current.pressure		| 1008			|
+#		|current.pressure		| 1008			|
 	Examples: 
 		|cityname |
 		| Chennai |		
